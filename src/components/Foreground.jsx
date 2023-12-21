@@ -5,17 +5,17 @@ import Card from './Card'
 function Foreground() {
     const ref=useRef(null)
     const data=[
-        { desc:"this is Nikita",
+        { desc:"Namaste",
          fileSize:".9mb",
         close:true, 
         tag:{isOpen:true, tagTitle:"Download Now", tagColor:"green"},
         },
-        { desc:"this is Anuj",
+        { desc:"Namaste",
          fileSize:".9mb",
         close:true, 
         tag:{isOpen:true, tagTitle:"Upload", tagColor:"blue"},
         },
-        { desc:"this is Nikita",
+        { desc:"Namaste",
          fileSize:".9mb",
         close:true, 
         tag:{isOpen:false, tagTitle:"Download Now", tagColor:"green"},
